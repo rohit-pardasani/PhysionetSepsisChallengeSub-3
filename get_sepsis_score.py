@@ -2,7 +2,6 @@
 
 import sys
 import numpy as np
-import os, shutil, zipfile
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from sklearn.externals import joblib
