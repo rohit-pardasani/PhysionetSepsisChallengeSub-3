@@ -1,4 +1,7 @@
 numpy==1.14.2
 pandas==0.22.0
 scikit-learn==0.19.1
+tensorflow==1.9.0
+tensorflow-base==1.9.0
+tensorboard==1.9.0
 keras==2.2.4
